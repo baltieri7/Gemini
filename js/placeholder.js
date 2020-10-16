@@ -1,0 +1,1 @@
+// Solução temporária até botarmos a mão na massa.
