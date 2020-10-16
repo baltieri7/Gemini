@@ -17,7 +17,7 @@ img{
   border-radius: 1em;
   color: rgb(134, 133, 133);
   background-color: white;
-  width: 24em;
+  width: 28em;
   height: 34em;
   margin-left: auto;
   margin-right: auto;
@@ -31,11 +31,10 @@ img{
   height: 25em;
   padding-top: 12em;
 }
-
-.input-field {
-  color: #00aae5;
+.row{
+margin-right:2em;
 }
-#teste {
+#title {
   font-size: 28px;
   font-family: Helvetica;
 }
@@ -43,11 +42,13 @@ img{
   width: 23em;
   color: white;
   background-color: #00aae5;
+  margin-left: 3.2em;
 }
 #remember {
+  font-family: Helvetica;
   text-align: center;
   margin-top: 2em;
-  margin-left: auto;
+  margin-left: 3em;
   margin-right: auto;
 }
 label.active {
