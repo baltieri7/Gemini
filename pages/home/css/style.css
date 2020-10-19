@@ -1,4 +1,10 @@
 .nav-wrapper{
     background-color:#00aae5;
-    padding-left:0.5em;
+    padding-left: 300px;
+}
+.material-icons{
+    align-self: start;
+}
+.brand-logo{
+margin-left: 1%;
 }
