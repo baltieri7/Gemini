@@ -1,8 +1,19 @@
+/* Plano de fundo azul */
+#background {
+  background-color: #00aae5;
+  width: 100%;
+  height: 25em;
+  padding-top: 12em;
+}
+
+/* Circunferencia onde o logo está posicionado */
 #logo {
   margin-block-start: -20%;
   margin-left: auto;
   margin-right: auto;
 }
+
+/* Logotipo */
 img {
   border-radius: 20em;
   max-width: 200px;
@@ -11,6 +22,8 @@ img {
   height: auto;
   box-shadow: 5px 5px 6px rgba(112, 111, 111, 0.61);
 }
+
+/* form do login */
 #bg {
   padding-top: 1em;
   text-align: center;
@@ -23,31 +36,32 @@ img {
   margin-right: auto;
   box-shadow: 5px 5px 6px rgba(112, 111, 111, 0.61);
 }
-#background {
-  background-color: #00aae5;
-  width: 100%;
-  height: 250em;
-  padding-top: 12em;
-}
 .row {
-margin:auto;
+  margin: auto;
 }
+/* Titulo */
 #title {
   font-size: 28px;
   font-family: Helvetica;
 }
-#email{
+/* Campo de email */
+#email {
   width: 24.4em;
 }
-#senha{
+
+/* Campo de senha */
+#senha {
   width: 24.4em;
 }
+
+/* Botão enviar */
 .btn {
   width: 24em;
   color: white;
   background-color: #00aae5;
-
 }
+
+/* Link ESQUECEU A SENHA */
 #remember {
   font-family: Helvetica;
   text-align: center;
@@ -55,12 +69,14 @@ margin:auto;
   margin-left: auto;
   margin-right: auto;
 }
+
+/* link para REGISTRAR */
 #register {
   font-family: Helvetica;
   text-align: center;
-  margin-top:2em;
-  margin-left:auto;
-  margin-right:auto;
+  margin-top: 2em;
+  margin-left: auto;
+  margin-right: auto;
 }
 label.active {
   color: #00aae5 !important;
