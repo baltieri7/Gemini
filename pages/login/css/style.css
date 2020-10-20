@@ -30,18 +30,17 @@ img {
   padding-top: 12em;
 }
 .row {
-  margin-right: 2em;
+margin:auto;
 }
 #title {
   font-size: 28px;
   font-family: Helvetica;
 }
 .btn {
-  width: 23em;
+  width: 24em;
   color: white;
   background-color: #00aae5;
-  margin-left: 1.1em;
-  margin-right: 1.1em;
+
 }
 #remember {
   font-family: Helvetica;
